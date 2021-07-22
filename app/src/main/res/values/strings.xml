@@ -9,4 +9,8 @@
     <string name="sub_item_rotate">버튼 45도 회전</string>
     <string name="sub_item_zoom">버튼 2배 확대</string>
     <string name="text2">회전 각도 입력:</string>
+    <string name="item_pic_rotate">그림 회전</string>
+    <string name="item_place_1">해운대</string>
+    <string name="item_place_2">강문해변</string>
+    <string name="item_place_3">묵호바다</string>
 </resources>
