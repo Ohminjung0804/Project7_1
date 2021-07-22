@@ -18,7 +18,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <ImageView
-        android:id="@+id/imges"
+        android:id="@+id/imgev"
+        android:layout_below="@id/edit_angle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/img1"/>
